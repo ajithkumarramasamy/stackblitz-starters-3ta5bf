@@ -5,6 +5,7 @@ const Cart = () => {
   return (
     <>
       <Header />
+      <h1>cart</h1>
     </>
   );
 };
